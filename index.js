@@ -1,7 +1,7 @@
  function p(value){
     console.log(value);
  }
-  /*
+
  function theBeatlesPlay(musicians, instruments){
    var m = []
    for (var i = 0; i < 4; i++){
@@ -27,7 +27,7 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-*/
+
 
 function iLoveTheBeatles(num) {
     let m = [];
