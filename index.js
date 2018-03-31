@@ -29,15 +29,16 @@ const facts = [
 ];
 */
 
-function iLoveTheBeatles(num){
-  var m = []
-  do{
-    m.push("I love the Beatles!")
+function iLoveTheBeatles(num) {
+    let m = [];
+    do {
+        m.push("I love the Beatles!")
+        ++num
     } while (num < 15){
-      ++num
+
     }
-  p(m)
+
+    return m
 }
 
-iLoveTheBeatles(1)
 
